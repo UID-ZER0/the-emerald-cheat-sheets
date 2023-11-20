@@ -1,1 +1,1 @@
-# the-emerald-cheat-sheets
+# the emerald cheat sheets 𓄿 𓀃
