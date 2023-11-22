@@ -1,17 +1,17 @@
-### create a new repository on the command line
+### create a new repository
 ```
-echo "# name of repo" >> README.md
+echo "# cheats" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/username/name of repo.git
+git remote add origin https://github.com/UID-ZER0/cheats.git
 git push -u origin main
 ```
 
-### push an existing repository from the command line
+### push an existing repository
 ```
-git remote add origin https://github.com/username/name of repo.git
+git remote add origin https://github.com/UID-ZER0/cheats.git
 git branch -M main
 git push -u origin main
 ```
@@ -164,3 +164,5 @@ Discards all history and changes back to the specified commit
 [GitHub Cheatsheets](https://training.github.com/)
 [git-cheat-sheet.pdf (gitlab.com)](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 [git-cheat-sheet-education (github.com)](https://education.github.com/git-cheat-sheet-education.pdf)
+[Authentication documentation - GitHub Docs](https://docs.github.com/en/authentication)
+[Connecting to GitHub with SSH - GitHub Docs](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
